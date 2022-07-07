@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/floor/floor_01.png</file>
+        <file>res/floor/floor_02.png</file>
+        <file>res/floor/role.png</file>
+        <file>res/ball/role_01.png</file>
+        <file>res/food/food_01.png</file>
+        <file>res/ball/role_02.png</file>
+        <file>res/ball/role_03.png</file>
+        <file>res/ball/role_04.png</file>
+        <file>res/ball/role_05.png</file>
+        <file>res/ball/role_06.png</file>
+    </qresource>
+</RCC>
